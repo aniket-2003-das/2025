@@ -1,0 +1,69 @@
+{
+  "chat": [
+    {
+      "id": 1,
+      "response": "Hello! How can I assist you today?",
+      "followup": [
+        "Tell me about your services",
+        "How do I get started?",
+        "What are your operating hours?"
+      ]
+    },
+    {
+      "id": 2,
+      "response": "I've analyzed the content of your file. What would you like to know about it?",
+      "followup": [
+        "Summarize the main points",
+        "Extract key information",
+        "Identify the document type"
+      ]
+    },
+    {
+      "id": "fdcd",
+      "message": "What are some related subjects?",
+      "file": null
+    },
+    {
+      "id": "ab80",
+      "message": "What are some related subjects?",
+      "file": null
+    },
+    {
+      "id": "cbc8",
+      "message": "Can you provide an example?",
+      "file": null
+    }
+  ],
+  "upload": [
+    {
+      "id": 1,
+      "message": "File uploaded successfully!",
+      "followup": [
+        "What would you like to do with the file?",
+        "Do you want to process the file?",
+        "Should I analyze the contents?"
+      ]
+    },
+    {
+      "id": "e2ea",
+      "fileName": "Aniket-Das-Resume-2025.pdf"
+    }
+  ],
+  "knowledge_base": [
+    {
+      "id": 1,
+      "question": "What are your services?",
+      "answer": "We offer a wide range of services including web development, mobile app development, and AI integration."
+    },
+    {
+      "id": 2,
+      "question": "How do I get started?",
+      "answer": "To get started, you can book a free consultation through our website or give us a call. We'll discuss your needs and create a tailored plan for you."
+    },
+    {
+      "id": 3,
+      "question": "What are your operating hours?",
+      "answer": "Our customer support is available 24/7. Our office hours for in-person meetings are Monday to Friday, 9 AM to 6 PM."
+    }
+  ]
+}
